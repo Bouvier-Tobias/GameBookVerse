@@ -1,0 +1,46 @@
+LOGOS DES BOUTIQUES ET DES SITES
+================================
+
+Sur la fiche d'un jeu, chaque lien (Steam, GOG, Epic...) affiche une icône.
+Par défaut c'est une icône générique (caddie, globe...). Pour afficher le vrai logo :
+
+1. Va sur https://simpleicons.org et cherche le nom de la marque.
+2. Télécharge le logo au format SVG.
+3. Renomme le fichier avec le nom ci-dessous et mets-le dans ce dossier (assets/icons/).
+
+Le logo prend automatiquement la couleur de la marque. Il suffit d'un fichier SVG à une seule couleur.
+
+Boutiques                       Nom du fichier
+------------------------------  -----------------
+Steam                           steam.svg
+GOG                             gog.svg
+Epic Games Store                epic.svg
+itch.io                         itch.svg
+App Store                       appstore.svg
+Google Play                     googleplay.svg
+Xbox                            xbox.svg
+Microsoft Store                 microsoft.svg
+PlayStation Store               playstation.svg
+Nintendo eShop                  nintendo.svg
+Humble Bundle                   humble.svg
+Battle.net                      battlenet.svg
+Ubisoft                         ubisoft.svg
+EA app                          ea.svg
+Riot Games                      riot.svg
+
+Autres liens                    Nom du fichier
+------------------------------  -----------------
+Site officiel                   official.svg
+Wikipédia                       wikipedia.svg
+Fandom                          fandom.svg
+YouTube                         youtube.svg
+Twitch                          twitch.svg
+Reddit                          reddit.svg
+Discord                         discord.svg
+Facebook                        facebook.svg
+X (Twitter)                     twitter.svg
+Instagram                       instagram.svg
+Bluesky                         bluesky.svg
+
+Les logos sont des marques déposées : vérifie les règles d'utilisation de chaque marque
+si tu publies un jour le site.
